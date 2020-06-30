@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-plugin-goatcounter",
+  "version": "1.0.4",
+  "description": "goatcounter plugin for vuepress",
+  "keywords": [
+    "documentation",
+    "generator",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/srcrs/vuepress-plugin-goatcounter",
+  "bugs": {
+    "url": "https://github.com/srcrs/vuepress-plugin-goatcounter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srcrs/vuepress-plugin-goatcounter.git",
+    "directory": "/"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srcrs <srcrszhu@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
