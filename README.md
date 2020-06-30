@@ -13,10 +13,12 @@ npm install -D vuepress-plugin-goatcounter
 ```javascript
 module.exports = {
   plugins: ['vuepress-plugin-goatcounter', {
-    'user': '你的用户名'
+    'user': '[my-code]'
   }]
 }
 ```
+
+You will access your account at https://[my-code].goatcounter.com.
 
 ## Options
 
