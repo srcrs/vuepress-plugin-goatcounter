@@ -6,7 +6,7 @@ export default ({ router }) => {
 	   goatcounter.setAttribute("data-goatcounter","https://"+USER+".goatcounter.com/count")
 	   goatcounter.setAttribute("async","true");
 //	   goatcounter.setAttribute("src","//gc.zgo.at/count.js");
-       goatcounter.setAttribute("src","https://srcrs.top/assets/js/count.js");
+       goatcounter.setAttribute("src","https://cdn.jsdelivr.net/gh/srcrs/srcrs.github.io@master/assets/js/count.js");
        var s = document.getElementsByTagName("script")[0]
        s.parentNode.insertBefore(goatcounter, s)
     })()
